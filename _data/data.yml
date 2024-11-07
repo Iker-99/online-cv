@@ -8,19 +8,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Iker Figás
+    tagline: Buzo recuperador de pelotas de golf profesional con mas de 20 años de experiencia
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
+    email: elbuzomasmejor@email.com
     phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    timezone: ESPAÑOL # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
+    website: https://buzopedia.com/ # Include the full website URL, including "http://" or "https://".
+    linkedin: IkerF
+    xing: IkerF
+    github: Iker-99
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -36,25 +36,25 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Ruso
           level: Native
 
-        - idiom: French
+        - idiom: Turco
           level: Professional
 
         - idiom: Spanish
           level: Professional
 
     interests:
-      title: Interests
+      title: интересы
       info:
-        - item: Climbing
+        - item: Cojer pelotas de golf
           link:
 
-        - item: Snowboarding
+        - item: Cojer aun mas pelotas de golf
           link:
 
-        - item: Cooking
+        - item: Cojer muchas mas pero muchisimas mas pelotas de golf
           link:
 
 career-profile:
@@ -69,9 +69,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Buzismo
+        university: Universidad de buzo
+        time: 2006 - 2018
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -98,18 +98,9 @@ experiences:
       - role: Lead Developer
         time: 2015 - Present
         company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+        details: Una vez mientras estaba cogiendo una pelota de golf aparecio una manada de tiburones
+        y los pobre no me quisieron soltar asi que los tube que des vivir, la carne de tiburon sabe muy bien
+        te la recomiendo. 
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
